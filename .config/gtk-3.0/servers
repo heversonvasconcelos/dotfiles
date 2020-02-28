@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="smb://10.168.8.5/" added="2018-04-03T17:09:56Z" modified="2018-04-03T17:09:56Z" visited="2018-04-03T17:09:56Z">
+    <title>Compartilhamentos Windows em 10.168.8.5</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;nautilus %u&apos;" modified="2018-04-03T17:09:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="ftp://ftp.cindacta2.intraer/" added="2018-09-27T13:22:07Z" modified="2018-09-27T13:22:07Z" visited="2018-09-27T13:22:07Z">
+    <title>/ on ftp.cindacta2.intraer</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;nautilus %u&apos;" modified="2018-09-27T13:22:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="smb://pinguim-fs.cindacta2.intraer/" added="2018-11-01T14:34:46Z" modified="2019-01-30T14:55:16Z" visited="2019-01-30T14:55:16Z">
+    <title>Windows shares on pinguim-fs.cindacta2.intraer</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;nautilus %u&apos;" modified="2019-01-30T14:55:16Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="smb://pinguim-fi.dtceafi.intraer/" added="2019-04-23T16:13:48Z" modified="2019-04-25T11:58:11Z" visited="2019-04-25T11:58:11Z">
+    <title>Windows shares on pinguim-fi.dtceafi.intraer</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;nautilus %u&apos;" modified="2019-04-25T11:58:11Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="smb://10.176.19.10/" added="2019-05-07T16:15:07Z" modified="2019-05-07T16:15:34Z" visited="2019-05-07T16:15:34Z">
+    <title>Windows shares on 10.176.19.10</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2019-05-07T16:15:34Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="smb://cost.dtceaco.intraer/cost/" added="2019-05-07T17:58:21Z" modified="2019-05-09T12:59:33Z" visited="2019-05-09T12:59:33Z">
+    <title>cost on cost.dtceaco.intraer</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2019-05-09T12:59:33Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
